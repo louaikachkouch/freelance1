@@ -60,7 +60,7 @@
 
 @layer utilities {
   .text-gradient {
-    @apply bg-gradient-to-r from-blue-400 via-indigo-400 to-teal-400 bg-clip-text text-transparent;
+    @apply text-blue-400;
   }
 
   .bg-gradient-primary {
